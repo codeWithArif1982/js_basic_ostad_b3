@@ -1,6 +1,6 @@
 // In JavaScript, the return keyword is used inside a function to return a value to the code that called the function. When a return statement is executed inside a function, it immediately stops the execution of the function and returns the specified value to the calling code.
 
-//     Here's an example of a function that uses the return keyword:
+//Here's an example of a function that uses the return keyword:
 
 
 // function addNumbers(a, b) {
